@@ -6,6 +6,7 @@ Sean Bean quote-soundboard from Civilization VI, as a React app.
 ![seanbean](http://thejoystick.net/wp-content/uploads/2016/07/tw-seanbean-440-2.jpg)
 
 ### Dependencies/Credits
+- Basic Node/React/Webpack
 - Uses Material-UI and Audio-FX.js
 - Audio from Civ VI
 
