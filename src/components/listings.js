@@ -82,6 +82,7 @@ const Listings = () => {
       <ul className="col-md-4 list-group">
         <h1>Sean Bean on...</h1>
         <ButtonList />
+        <a href="https://github.com/MuffinLightning/react-seanbean-sb">@MuffinLightning</a>
       </ul>
     </div>
   );

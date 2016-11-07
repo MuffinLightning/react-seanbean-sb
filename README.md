@@ -1,5 +1,5 @@
 # react-seanbean-sb
-Created as part of a Sunday afternoon self-hackathon.
+Created as part of a Monday afternoon self-hackathon.
 
 Sean Bean quote-soundboard from Civilization VI, as a React app. 
 
